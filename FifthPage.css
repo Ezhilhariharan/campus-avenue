@@ -1,0 +1,23 @@
+.input-secondpage{
+    border-color:lightgrey;
+    margin-top:0px ;
+    padding-top:25px;
+    border-radius:5px ;
+    padding-left:160px;
+  }
+  .name-secondpage{
+    color:grey;
+    padding-top:55px;
+    font-size:25px;
+  }
+  .fifth-right{
+  color:rgb(92,119,244);
+  font-size:48px;
+  padding-right:1200px;
+  padding-top:125px;
+}
+.fifth-paragarph{
+    font-size:28px;
+  padding-left:0px;
+  padding-top:45px;
+}

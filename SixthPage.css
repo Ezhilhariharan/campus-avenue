@@ -1,0 +1,24 @@
+.SixthPage{
+    text-align:center;
+    align-items:center;
+}
+.profile{
+    color:rgb(92,119,244);
+  font-size:48px;
+  
+  padding-top:100px;
+}
+.icon{
+    
+    background-color:rgb(92,119,244);
+    position: relative;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    margin-top:50px;
+    margin-left:45%;
+    border: 4px solid rgb(92,119,244);
+    margin-bottom: 80px;
+    overflow: hidden;
+    cursor: pointer;
+}
